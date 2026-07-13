@@ -1,0 +1,11 @@
+ID,Age,Nationality,Purpose_visit,Length_Stay,Expenditure,Mode_Transport,Destination,Accommodation,Season,Satisfaction
+28,28,Indian,Leisure,7,850,Air,Pokhara,Hotel,Spring,4
+35,35,Chinese,Cultural,10,1200,Air,Kathmandu,Resort,Autumn,5
+42,42,American,Adventure,14,2500,Air,Everest Region,Guesthouse,Winter,4
+31,31,German,Religious,6,600,Road,Lumbini,Homestay,Summer,3
+50,50,British,Business,4,1500,Air,Kathmandu,Hotel,Autumn,5
+24,24,Japanese,Leisure,8,900,Air,Pokhara,Resort,Spring,4
+38,38,Indian,Cultural,12,700,Road,Chitwan,Guesthouse,Summer,3
+45,45,Australian,Adventure,16,2200,Air,Annapurna Region,Guesthouse,Autumn,5
+29,29,American,Leisure,9,1800,Air,Kathmandu,Hotel,Spring,4
+33,33,German,Cultural,7,1000,Air,Lumbini,Homestay,Winter,4

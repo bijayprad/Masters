@@ -1,0 +1,20 @@
+Age,Gender,Education,Occupation,Nationality,Marital,Family_Size,Travel_Purpose,Monthly,Revenue,Expenses,Profit,Source_book,Length_stay,Room_Type,Room_Rate,Occupancy,Number_Guests,Repeated_Visits,Satisfaction,Service_Evaluation,Staff_Friendliness,Cleanliness,Comfort_Level,Computer_Literacy
+21,Male,PhD,Retired,Nepal,Married,6,Business,73800,76843,64204,92917,Travel Agency,8,Suite,17640,88.72,4,2,4,5,2,5,1,3
+18,Male,Primary,Service,China,Widowed,8,Leisure,73548,492915,239549,167883,Walk-in,3,Standard,17267,49.93,1,0,5,3,2,2,2,5
+27,Other,Bachelor,Retired,Nepal,Single,8,Pilgrimage,45773,124639,222940,178016,Walk-in,4,Standard,2125,69.39,5,3,4,4,4,5,3,1
+37,Other,Bachelor,Service,USA,Single,7,Leisure,143863,480632,267983,78704,Walk-in,2,Standard,2826,69.17,2,4,4,5,5,5,3,3
+29,Other,Bachelor,Business,Germany,Widowed,3,Other,144043,179190,135944,116391,Other,9,Standard,15444,48.85,5,2,3,4,5,1,2,3
+37,Other,Master,Student,China,Divorced,2,Business,120990,452496,298042,25060,Travel Agency,1,Deluxe,11369,78.64,2,0,3,2,1,5,5,5
+23,Female,Bachelor,Student,China,Widowed,3,Business,43628,75500,125876,85984,Travel Agency,7,Standard,6004,88.07,4,0,1,3,1,1,4,4
+63,Other,Primary,Other,UK,Divorced,1,Business,144798,412844,72932,128256,Online,15,Standard,3703,88.7,1,1,2,5,3,2,2,3
+30,Female,PhD,Service,Australia,Divorced,5,Other,154203,372851,236343,23509,Travel Agency,2,Standard,13669,55.55,4,5,4,3,5,5,3,4
+65,Male,Secondary,Business,India,Single,6,Business,79249,93481,108988,24607,Other,14,Deluxe,18237,70.47,2,5,1,5,3,3,3,3
+62,Female,Master,Retired,China,Widowed,1,Other,189740,319933,238999,13145,Walk-in,5,Standard,6849,53.32,3,1,1,3,3,4,1,1
+23,Other,Primary,Service,USA,Single,4,Adventure,135081,296269,254130,32452,Walk-in,11,Suite,5157,41.39,4,2,3,4,2,4,4,5
+62,Female,PhD,Business,Germany,Divorced,7,Pilgrimage,185402,121367,95430,153657,Walk-in,12,Suite,8385,48.37,2,3,1,4,5,1,2,5
+43,Male,Bachelor,Other,India,Widowed,2,Adventure,73273,472381,248145,20035,Other,6,Deluxe,10619,96.38,4,3,4,2,2,2,5,4
+66,Other,Secondary,Retired,China,Single,8,Pilgrimage,65559,465506,239812,26648,Walk-in,11,Suite,2994,47.98,1,3,3,1,5,3,5,2
+51,Other,Secondary,Student,India,Single,1,Leisure,151207,385246,133042,58357,Walk-in,15,Standard,3374,92.76,5,1,3,3,1,4,3,5
+46,Female,Primary,Student,Nepal,Widowed,1,Leisure,46106,64859,112213,19100,Other,7,Deluxe,19184,82.39,2,2,1,3,3,4,5,4
+62,Female,Bachelor,Student,Nepal,Single,5,Other,122685,276675,188782,84032,Other,8,Deluxe,18142,78.77,5,1,3,4,3,4,1,2
+50,Female,Primary,Other,Nepal,Divorced,6,Adventure,115995,449267,158659,59801,Online,7,Suite,6293,93.22,1,5,4,1,4,3,5,1

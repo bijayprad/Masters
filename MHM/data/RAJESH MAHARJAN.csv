@@ -1,0 +1,14 @@
+ID,Age,Gender,Education,Occupation,Nationality,Marital_Status,Family_Size,Travel_Purpose,Spend,Nights,Satisfaction,Booking
+1,28,Male,Bachelor,Engineer,Nepalese,Single,3,Leisure,50,3,Very Satisfied,Online Travel Agency
+2,35,Female,Master,Teacher,Indian,Married,4,Business,25,5,Satisfied,Hotel Website
+3,24,Other,College,Student,Chinese,Single,2,Adventure,300,2,Neutral,Travel Agent
+4,42,Male,PhD,Professor,American,Married,5,Cultural,100,7,Very Satisfied,Hotel Website
+5,30,Female,Bachelor,Freelancer,British,Single,1,Leisure,95,4,Satisfied,OTA
+6,27,Male,Master,Doctor,German,Single,3,Medical,105,3,Very Satisfied,Travel Agent
+7,22,Female,College,Student,Nepalese,Single,5,Adventure,15,2,Neutral,Online Travel Agency
+8,38,Male,Master,Manager,Indian,Married,4,Business,25,4,Satisfied,Hotel Website
+9,26,Female,Bachelor,Waitress,Nepalese,Single,6,Cultural,65,3,Satisfied,OTA
+10,31,Male,Bachelor,Software Engineer,American,Married,3,Leisure,105,5,Very Satisfied,Hotel Website
+11,45,Female,PhD,Scientist,Japanese,Married,2,Medical,100,6,Satisfied,Travel Agent
+12,20,Other,High School,Student,Australian,Single,3,Adventure,40,2,Neutral,Walk-in
+13,33,Male,Master,Banker,German,Married,4,Business,45,4,Very Satisfied,OTA

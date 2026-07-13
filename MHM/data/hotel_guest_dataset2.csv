@@ -1,0 +1,21 @@
+Guest_ID,Age,Gender,Education,Occupation,Nationality,Marital_Status,Family_Size,Travel_Purpose,Income,Length_of_Stay,Room_Type,Room_Rate,Booking_Source,Number_of_Guests,Repeated_Visit,Customer_Satisfaction,Staff_Friendliness,Cleanliness,Comfort_Level,Computer_Literacy
+1,28,1,3,Student,Nepal,Single,3,2,500,3,Deluxe,70,Website,1,No,8,4,5,4,High
+2,35,2,4,Service,India,Married,4,1,1200,2,Standard,90,Travel Agent,2,Yes,9,5,4,5,Medium
+3,42,1,2,Business,Nepal,Married,5,3,2000,5,Suite,150,App,2,Yes,7,3,3,4,High
+4,24,2,3,Student,USA,Single,2,2,400,2,Standard,65,Walk-in,1,No,6,4,4,3,Medium
+5,31,1,2,Service,UK,Single,1,4,1500,4,Deluxe,100,Website,1,No,8,5,5,4,High
+6,47,2,5,Professor,Nepal,Married,3,1,2500,3,Suite,200,App,1,Yes,9,5,5,5,High
+7,38,3,3,Service,India,Married,4,2,1000,1,Standard,80,Website,2,No,7,3,3,3,Medium
+8,30,2,4,Business,Bangladesh,Single,2,1,1300,2,Deluxe,110,Travel Agent,1,No,8,4,4,4,High
+9,26,1,3,Student,Nepal,Single,1,5,300,3,Standard,60,App,1,No,6,3,4,2,Low
+10,45,2,4,Doctor,USA,Married,5,3,5000,6,Suite,250,Website,2,Yes,10,5,5,5,High
+11,34,1,2,Service,Nepal,Married,3,4,2200,3,Deluxe,120,Walk-in,2,Yes,8,4,4,4,Medium
+12,29,2,3,Student,India,Single,1,2,700,2,Standard,85,App,1,No,7,4,3,4,Medium
+13,37,1,4,Business,Nepal,Married,4,1,1900,2,Deluxe,130,Website,2,Yes,9,5,4,5,High
+14,41,3,2,Teacher,Sri Lanka,Married,4,3,1600,4,Suite,180,Travel Agent,2,No,8,4,5,4,Medium
+15,33,2,3,Service,Nepal,Single,3,2,1200,3,Standard,90,Website,1,No,7,3,4,3,Low
+16,27,1,4,Student,USA,Single,2,1,600,2,Standard,70,App,1,No,6,4,4,4,Medium
+17,36,2,2,Engineer,Nepal,Married,4,4,2500,3,Deluxe,140,Website,2,Yes,9,5,5,5,High
+18,39,1,5,Doctor,India,Married,3,1,4000,5,Suite,220,App,2,Yes,9,5,5,5,High
+19,32,2,3,Service,Nepal,Single,2,2,1800,3,Standard,95,Travel Agent,2,No,8,4,4,4,Medium
+20,43,1,3,Business,Nepal,Married,5,5,2000,4,Suite,200,Website,3,Yes,10,5,5,5,High

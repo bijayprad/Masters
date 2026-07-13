@@ -1,0 +1,17 @@
+Gender,Age,Education,Relationship,Employment,Income,Sector,Travel,Spend_travel,Prepartion_Itenary,Rate_travel_experience
+Female,24,Bachelor,Single,No,Not employed,Hospitality ,Rarely,0-5000,Self,4
+Male,37,Bachelor,Single,Yes,15000-30000,Manufacturing ,Frequently,5000-10000,Self,3
+Female,24,Bachelor,Single,No,Nothing ,Nothing ,Rarely,0-5000,Self,3
+Female,23,Bachelor,Single,Yes,45000-60000,Hotel,Often,15000-20000,Self,4
+Female,19,Bachelor,Single,Yes,30000-45000,Customer service,Frequently,5000-10000,Via agency,3
+Male,28,Bachelor,Married,Yes,15000-30000,Hospitality ,Often,5000-10000,Self,4
+Female,22,Bachelor,Single,No,0-15000,No employed,Rarely,0-5000,Self,3
+Male,19,Bachelor,Single,No,Not employed,Banquet sector,Rarely,5000-10000,Self,4
+Male,28,High school,Married,Yes,45000-60000,Worker,Rarely,10000-15000,Via agency,1
+Male,24,Bachelor,Single,Yes,30000-45000,Hospitality,Frequently,10000-15000,Self,5
+Female,32,Secondary level,Single,Yes,45000-60000,Fashion designs ,Rarely,15000-20000,Self,4
+Male,26,Bachelor,Single,Yes,15000-30000,Hospitality,Often,5000-10000,Self,3
+Male,21,High school,Single,Yes,0-15000,Barista,Rarely,0-5000,Self,4
+Male,21,High school,Single,Yes,0-15000,Barista,Rarely,0-5000,Self,4
+Female,20,Bachelor,Single,Yes,45000-60000,Banking,Frequently,10000-15000,Via agency,4
+Female,32,High school,Married,Yes,0-15000,Hotel ,Frequently,5000-10000,Self,4

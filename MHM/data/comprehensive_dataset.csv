@@ -1,0 +1,51 @@
+ID,Age,Gender,Education,Occupation,Nationality,Marital,Family_Size,Travel_Purpose,Income,Expenses,Profit,Exam_Score,Booking_Source,Length_of_Stay,Room_Type,Room_Rate,Occupancy_Rate,Guests,Repeated_Visits,Satisfaction,Service_Eval,Staff_Friendliness,Cleanliness,Comfort,Computer_Literacy
+1,43,Female,Master,Student,Other,Divorced,1,Education,94605,14398,80207,80,Online,6,Deluxe,6746,64,5,5,5,2,1,3,5,High
+2,33,Female,PhD,Other,Nepali,Married,5,Leisure,33277,12790,20487,86,Walk-in,4,Deluxe,4165,59,5,4,5,3,5,2,4,Medium
+3,42,Male,Bachelor,Business,Indian,Single,6,Other,17089,5701,11388,98,Travel Agent,2,Deluxe,2580,91,1,4,4,3,1,4,5,High
+4,59,Other,Primary,Service,Other,Married,8,Medical,74692,40850,33842,61,Travel Agent,9,Suite,6363,73,4,5,5,5,1,3,5,High
+5,39,Female,PhD,Business,Chinese,Widowed,6,Business,91036,22595,68441,96,Walk-in,8,Suite,7446,79,3,5,5,1,4,3,4,High
+6,22,Male,Master,Retired,Chinese,Widowed,2,Leisure,63826,26002,37824,97,Online,2,Deluxe,3728,57,4,0,1,5,2,5,2,Medium
+7,33,Other,Bachelor,Student,Chinese,Married,3,Other,29789,10243,19546,68,Walk-in,10,Deluxe,3891,55,2,2,5,1,5,2,3,High
+8,56,Other,Secondary,Retired,Nepali,Single,1,Leisure,17778,6384,11394,82,Walk-in,5,Standard,5827,75,3,3,4,2,4,3,2,Medium
+9,52,Other,Master,Other,Chinese,Divorced,5,Education,36120,10615,25505,44,Walk-in,5,Suite,4708,80,2,5,1,2,4,3,3,Medium
+10,45,Male,Master,Service,Nepali,Divorced,5,Education,74210,25200,49010,90,Walk-in,2,Suite,2170,87,2,5,2,1,3,1,3,Low
+11,52,Other,Master,Other,Other,Divorced,4,Leisure,22281,6494,15787,95,Online,7,Standard,4345,50,2,1,1,2,4,4,5,Low
+12,45,Female,Secondary,Business,Indian,Single,1,Education,17143,16935,208,71,Walk-in,9,Deluxe,7382,64,1,3,2,3,2,5,2,Low
+13,45,Other,Primary,Retired,Chinese,Divorced,2,Other,51767,40922,10845,67,Online,5,Suite,3081,76,1,5,4,4,3,4,5,Low
+14,25,Female,Secondary,Retired,Other,Divorced,1,Other,81143,27826,53317,49,Walk-in,10,Deluxe,5804,94,4,4,1,4,3,2,1,High
+15,22,Other,Primary,Student,Other,Single,1,Medical,98044,55141,42903,67,Travel Agent,5,Standard,2291,52,5,4,1,4,5,3,2,Low
+16,34,Male,Bachelor,Retired,Other,Married,5,Medical,70997,69369,1628,54,Online,7,Suite,4783,67,3,2,4,2,3,3,5,Low
+17,56,Female,PhD,Other,Indian,Widowed,2,Medical,86694,27104,59590,62,Walk-in,9,Suite,3362,51,1,5,2,2,3,4,1,High
+18,33,Other,Primary,Retired,Other,Divorced,5,Leisure,62427,19754,42673,83,Online,1,Suite,7434,91,1,0,1,2,4,2,5,Low
+19,20,Male,Primary,Service,Other,Divorced,1,Business,46561,8914,37647,100,Travel Agent,9,Deluxe,5090,93,1,1,1,1,3,3,3,Low
+20,23,Female,PhD,Retired,Indian,Divorced,8,Business,95491,7825,87666,100,Online,2,Suite,3211,55,3,4,3,3,2,2,1,High
+21,30,Other,PhD,Retired,Nepali,Married,3,Leisure,63589,6325,57264,89,Online,1,Suite,2686,56,4,1,3,4,2,1,2,Medium
+22,38,Other,PhD,Student,Chinese,Married,8,Other,83876,34675,49201,43,Online,1,Deluxe,6721,77,5,5,4,1,1,2,2,Medium
+23,57,Female,Bachelor,Retired,Other,Single,6,Business,47752,39461,8291,84,Walk-in,3,Suite,3062,79,3,5,3,4,2,3,2,Medium
+24,33,Other,Primary,Business,Nepali,Divorced,8,Other,68813,66538,2275,58,Online,3,Deluxe,7051,52,5,5,5,2,2,1,3,Medium
+25,20,Female,Primary,Service,Chinese,Married,7,Business,87726,70054,17672,69,Travel Agent,1,Standard,4393,91,3,3,1,4,2,2,1,Medium
+26,64,Other,PhD,Service,Other,Divorced,5,Medical,95664,63077,32587,95,Travel Agent,1,Deluxe,2078,78,5,2,3,3,3,5,1,Low
+27,61,Female,PhD,Student,Nepali,Divorced,1,Medical,98020,21859,76161,64,Walk-in,10,Standard,4633,81,5,3,2,5,3,2,2,Medium
+28,53,Female,Secondary,Service,Chinese,Single,4,Education,83208,12679,70529,80,Travel Agent,2,Suite,5550,69,3,1,1,4,3,5,4,Low
+29,24,Other,Master,Student,Nepali,Divorced,2,Medical,18203,9863,8340,69,Travel Agent,7,Standard,3313,61,4,1,5,2,4,2,2,High
+30,64,Male,Primary,Other,Nepali,Widowed,7,Medical,12829,11121,1708,75,Travel Agent,8,Suite,7407,73,3,0,5,2,1,3,2,High
+31,57,Other,Bachelor,Business,Nepali,Single,7,Medical,12929,10610,2319,69,Walk-in,10,Standard,5946,54,5,4,4,2,5,2,5,High
+32,49,Other,Secondary,Business,Indian,Widowed,3,Other,55595,23937,31658,46,Travel Agent,8,Suite,3590,97,4,3,1,2,1,5,5,High
+33,41,Male,Bachelor,Student,Other,Married,5,Medical,44826,36179,8647,63,Travel Agent,10,Standard,7839,98,1,0,3,1,2,3,2,Low
+34,53,Female,Master,Service,Chinese,Single,2,Leisure,60070,46313,13757,73,Travel Agent,10,Suite,3947,75,4,1,3,4,2,4,2,Medium
+35,61,Female,PhD,Business,Nepali,Married,2,Leisure,38198,13752,24446,81,Online,3,Standard,7401,60,4,3,3,2,4,4,5,High
+36,20,Female,Bachelor,Business,Chinese,Married,6,Education,29189,24511,4678,87,Online,10,Suite,4719,93,5,2,4,1,3,4,2,Low
+37,33,Other,Primary,Service,Nepali,Divorced,7,Medical,32069,22567,9502,77,Travel Agent,10,Suite,4446,76,5,3,5,3,1,2,3,Low
+38,22,Other,Master,Retired,Chinese,Divorced,8,Other,73284,10253,63031,49,Travel Agent,1,Standard,3543,86,4,4,4,3,4,4,4,Low
+39,65,Female,Secondary,Retired,Nepali,Single,8,Education,96228,52848,43380,76,Online,3,Deluxe,5910,66,4,2,2,5,2,4,1,High
+40,63,Male,PhD,Business,Other,Divorced,4,Other,45225,17921,27304,81,Online,3,Deluxe,7990,57,2,0,4,3,3,1,3,High
+41,45,Other,Primary,Business,Nepali,Divorced,2,Business,14269,10056,4213,56,Travel Agent,6,Deluxe,3480,75,2,1,5,1,1,2,1,Medium
+42,35,Female,Primary,Service,Nepali,Married,6,Business,96246,86299,9947,77,Walk-in,8,Standard,3838,85,1,1,4,1,1,3,2,High
+43,60,Female,Primary,Other,Chinese,Divorced,2,Education,39048,7491,31557,56,Online,1,Deluxe,3643,88,2,0,3,5,4,3,4,Low
+44,29,Other,Bachelor,Student,Nepali,Single,7,Education,47724,21184,26540,93,Travel Agent,1,Standard,3589,79,3,1,4,2,1,2,4,Medium
+45,64,Other,PhD,Other,Indian,Single,5,Business,14125,11268,2857,93,Travel Agent,10,Deluxe,2931,61,5,2,2,1,3,3,3,High
+46,18,Male,Bachelor,Retired,Other,Single,3,Other,11163,5590,5573,93,Travel Agent,1,Deluxe,6732,67,2,5,2,5,4,5,1,High
+47,60,Other,Secondary,Other,Other,Married,3,Other,19841,6909,12932,44,Walk-in,6,Deluxe,4877,86,2,2,5,4,1,3,3,Medium
+48,49,Other,Secondary,Business,Other,Widowed,1,Education,41538,25483,16055,63,Online,9,Suite,4970,80,5,4,2,4,2,4,1,High
+49,20,Female,Secondary,Student,Indian,Divorced,1,Education,43168,5278,37890,85,Online,10,Deluxe,3009,96,4,0,4,5,1,4,1,Medium
+50,47,Female,PhD,Business,Chinese,Single,2,Leisure,53985,10114,43871,91,Walk-in,8,Deluxe,3218,100,1,4,3,5,4,2,2,High
