@@ -1,0 +1,19 @@
+Plant No.,Growth Rate (cm/week),Soil pH,Fertilizer Type,Sunlight Exposure (hrs/day)
+1,3.2,6,Organic,6
+2,3.5,6.2,Chemical,6
+3,3.8,6.3,Organic,7
+4,4.1,6.5,Chemical,7
+5,4.3,6.6,Organic,8
+6,4.6,6.7,Chemical,8
+7,4.8,6.8,Organic,8
+8,5.1,6.9,Chemical,9
+9,5.3,7,Organic,9
+10,5.5,7.1,Chemical,9
+11,5.7,7.2,Organic,10
+12,5.8,7.3,Chemical,10
+13,6,7.4,Organic,10
+14,6.2,7.5,Chemical,11
+15,6.3,7.6,Organic,11
+16,6.5,7.7,Chemical,11
+17,6.7,7.8,Organic,12
+18,6.9,7.9,Chemical,12
